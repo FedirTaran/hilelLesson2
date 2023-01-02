@@ -56,7 +56,7 @@ public class Lesson2 {
 
     }
 
-    public void testMethod() {
+        public void testMethod() {
         int someValue = 5;
 
         Double aDouble = Double.valueOf("127.5");
