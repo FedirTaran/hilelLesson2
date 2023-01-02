@@ -52,6 +52,7 @@ public class Lesson2 {
 
         System.out.println(floatValue);
 
+        System.out.println(booleanValue);
 
     }
 
